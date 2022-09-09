@@ -1,4 +1,6 @@
-﻿namespace luizeduardosantos_d3_avaliacao
+﻿using luizeduardosantos_d3_avaliacao.Repositories;
+
+namespace luizeduardosantos_d3_avaliacao
 {
     internal class Program
     {
@@ -29,7 +31,7 @@
                         Console.WriteLine("Digite sua senha\n");
                         string senha = Console.ReadLine();
 
-                        bool sucesso = true; //completar com a chamda de uma funcao 
+                        bool sucesso = UserRepository.LookUp(email, senha);  
 
                         if (sucesso == true)
                         {

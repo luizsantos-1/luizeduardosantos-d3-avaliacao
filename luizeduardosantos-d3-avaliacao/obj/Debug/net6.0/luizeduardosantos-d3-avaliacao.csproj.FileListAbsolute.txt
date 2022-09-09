@@ -1,0 +1,15 @@
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\bin\Debug\net6.0\luizeduardosantos-d3-avaliacao.exe
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\bin\Debug\net6.0\luizeduardosantos-d3-avaliacao.deps.json
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\bin\Debug\net6.0\luizeduardosantos-d3-avaliacao.runtimeconfig.json
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\bin\Debug\net6.0\luizeduardosantos-d3-avaliacao.dll
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\bin\Debug\net6.0\luizeduardosantos-d3-avaliacao.pdb
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\obj\Debug\net6.0\luizeduardosantos-d3-avaliacao.csproj.AssemblyReference.cache
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\obj\Debug\net6.0\luizeduardosantos-d3-avaliacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\obj\Debug\net6.0\luizeduardosantos-d3-avaliacao.AssemblyInfoInputs.cache
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\obj\Debug\net6.0\luizeduardosantos-d3-avaliacao.AssemblyInfo.cs
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\obj\Debug\net6.0\luizeduardosantos-d3-avaliacao.csproj.CoreCompileInputs.cache
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\obj\Debug\net6.0\luizeduardosantos-d3-avaliacao.dll
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\obj\Debug\net6.0\refint\luizeduardosantos-d3-avaliacao.dll
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\obj\Debug\net6.0\luizeduardosantos-d3-avaliacao.pdb
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\obj\Debug\net6.0\luizeduardosantos-d3-avaliacao.genruntimeconfig.cache
+C:\Users\cteds_16\Documents\luizeduardosantos-d3-avaliacao\luizeduardosantos-d3-avaliacao\obj\Debug\net6.0\ref\luizeduardosantos-d3-avaliacao.dll
