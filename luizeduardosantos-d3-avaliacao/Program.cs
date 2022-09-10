@@ -25,10 +25,10 @@ namespace luizeduardosantos_d3_avaliacao
                     do
                     {
                         
-                        Console.WriteLine("Digite seu email\n");
+                        Console.WriteLine("Digite seu email");
                         string email = Console.ReadLine();
 
-                        Console.WriteLine("Digite sua senha\n");
+                        Console.WriteLine("Digite sua senha");
                         string senha = Console.ReadLine();
 
                         bool sucesso = UserRepository.LookUp(email, senha);  
