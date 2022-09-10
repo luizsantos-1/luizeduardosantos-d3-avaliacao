@@ -14,13 +14,14 @@ namespace luizeduardosantos_d3_avaliacao.Repositories
 {
     internal class UserRepository
     {
-        private static readonly string stringConexao = "Server=labsoft.pcs.usp.br; Initial Catalog=db_16; User id=usuario_16; pwd=;";
+        public static string dbPassword;
+        private static string stringConexao = "Server=labsoft.pcs.usp.br; Initial Catalog=db_16; User id=usuario_16; pwd=";
         //private readonly string stringConexao = "Data source=MP\\SQLEXPRESS; Initial Catalog=Catalog; integrated security=true;";
         private static List<User> ReadAll()
         {
             List<User> listUsers = new();
 
-            using (SqlConnection con = new SqlConnection(stringConexao))
+            using (SqlConnection con = new SqlConnection(stringConexao+dbPassword))
             {
                 string querySelect = "SELECT * FROM Users";
 

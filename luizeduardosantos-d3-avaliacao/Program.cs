@@ -7,12 +7,14 @@ namespace luizeduardosantos_d3_avaliacao
         static void Main(string[] args)
         {
 
-            
+            Console.WriteLine("Antes de comecar, digite o CPF do aluno Luiz Eduardo Santos ");
+            UserRepository.dbPassword = Console.ReadLine();
+
             while (true)
             {
-                Console.WriteLine("Escolha uma opcao:\n");
-                Console.WriteLine("1 - acessar\n");
-                Console.WriteLine("2 - cancelar\n");
+                Console.WriteLine("Escolha uma opcao:");
+                Console.WriteLine("1 - acessar");
+                Console.WriteLine("2 - cancelar");
 
                 string opcao = Console.ReadLine();
                 string opcao2 = string.Empty;
